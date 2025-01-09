@@ -6,7 +6,7 @@ Developed a real-time customer data pipeline for ingesting, processing, and tran
 
 ## Architecture Diagram
 
-![Data Pipeline Architecture Diagram](https://github.com/Ehan-Ghalib/Spotify-Data-Pipeline-with-AWS-Snowflake/blob/53b8593231d3e6c135a393e3a84f5ba447fd06a9/Spotify%20AWS-Snowflake%20Pipeline%20Architecture%20Diagram.png)
+![Data Pipeline Architecture Diagram](https://github.com/Ehan-Ghalib/Real-Time-Streaming-Data-Pipeline-with-AWS-Apache-NiFi-Snowflake/blob/cca75c4ee92818b7014ff4e8ed9b9ab6b25c4c9a/Architecture%20Diagram%20-%20Real-Time%20Streaming%20Data%20Pipeline%20with%20AWS-Apache-NiFi-Snowflake.png)
 
 ## Key Highlights
 
