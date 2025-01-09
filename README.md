@@ -72,5 +72,5 @@ Developed a real-time customer data pipeline for ingesting, processing, and tran
 
 This project showcases how AWS and Snowflake can work in tandem to build scalable, cost-effective data pipelines that deliver timely insights.
 
-#Snowpipe, #Serverless, #Data Pipeline, #Near-Real Time
+#Snowpipe, #Serverless, #Data Pipeline, #Near-Real Time, #Stream, #Task, #Apache NiFi, #Faker, #Jupyter Lab, #Snowflake
 
